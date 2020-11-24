@@ -161,13 +161,13 @@ article img{
 		-webkit-column-count:2;
 		column-count:2;
 }
-    slicknav_menu{
+    	#slicknav_menu{
 		background-color:#800000;
 }
-	#nav_menu{
+	 #mobile_menu{
 		display:block;
 }
-    #mobile_menu{
+	#nav_menu{
 		display:block;
 }
 }
